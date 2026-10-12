@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Two Player Game</string>
+    <string name="image_description"><b><i>Two Player Game Challenge</i></b></string>
+    <string name="hint_player1">player1</string>
+    <string name="hint_player2">player2</string>
+    <string name="start_game">Start Game</string>
+    <string name="button1_default">Player 1</string>
+    <string name="button2_default">Player 2</string>
+    <string name="player_wins_button">%1$s wins</string>
+    <string name="default_player1">player1</string>
+    <string name="default_player2">player2</string>
+    <string name="score_initial">0 - 0</string>
+    <string name="score_format">%1$d - %2$d</string>
+    <string name="result_title">Game Over</string>
+    <string name="winner_format">Winner: %1$s</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="result_image_desc">Victory Trophy</string>
+</resources>
